@@ -510,6 +510,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ### Server Managers
 
+- [mcp-diet](https://github.com/FramY2/mcp-diet) - Zero-dependency stdio MCP proxy and runtime context firewall for deterministic `tools/list` tree-shaking, oversized `tools/call` crash protection, and live secret redaction.
 - [mcp-get](https://github.com/michaellatman/mcp-get) - CLI tool for installing and managing MCP servers. Simplifies server installation and configuration for Claude Desktop.
   - Supports NPM-based servers
   - Automatic configuration generation
